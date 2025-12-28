@@ -1,3 +1,4 @@
 
 # Dossier des exécutables
+*.out
 build/
