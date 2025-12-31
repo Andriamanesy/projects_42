@@ -107,7 +107,7 @@ int test_value_superior_255(void)
 
 int test_minus_one(void)
 {
-        char buf1[10] = {0};
+    char buf1[10] = {0};
     char buf2[10] = {0};
     int i = 0;
 
